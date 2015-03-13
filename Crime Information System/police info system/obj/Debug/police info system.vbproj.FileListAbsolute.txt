@@ -1,0 +1,395 @@
+D:\police\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+D:\police\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+D:\police\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+D:\police\police info system\police info system\bin\Debug\police info system.exe
+D:\police\police info system\police info system\bin\Debug\police info system.pdb
+D:\police\police info system\police info system\bin\Debug\police info system.xml
+D:\police\police info system\police info system\obj\Debug\police info system.exe
+D:\police\police info system\police info system\obj\Debug\police info system.xml
+D:\police\police info system\police info system\obj\Debug\police info system.pdb
+D:\police\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+D:\police arvind\police info system\police info system\obj\Debug\police info system.exe
+D:\police arvind\police info system\police info system\obj\Debug\police info system.xml
+D:\police arvind\police info system\police info system\obj\Debug\police info system.pdb
+D:\police arvind\police info system\police info system\bin\Debug\police info system.exe
+D:\police arvind\police info system\police info system\bin\Debug\police info system.pdb
+D:\police arvind\police info system\police info system\bin\Debug\police info system.xml
+D:\police arvind\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+D:\police arvind\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+D:\police arvind\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police info system.exe
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police info system.xml
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police info system.pdb
+G:\4my self\police arvind\police info system\police info system\bin\Debug\police info system.exe
+G:\4my self\police arvind\police info system\police info system\bin\Debug\police info system.pdb
+G:\4my self\police arvind\police info system\police info system\bin\Debug\police info system.xml
+G:\4my self\police arvind\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+G:\4my self\police arvind\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmsalaryrpt.resources
+D:\police\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+J:\police\police info system\police info system\obj\Debug\police info system.exe
+J:\police\police info system\police info system\obj\Debug\police info system.xml
+J:\police\police info system\police info system\obj\Debug\police info system.pdb
+J:\police\police info system\police info system\bin\Debug\police info system.exe
+J:\police\police info system\police info system\bin\Debug\police info system.pdb
+J:\police\police info system\police info system\bin\Debug\police info system.xml
+J:\police\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmsalaryrpt.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+J:\police\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+J:\police\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+G:\4my self\police\police\police info system\police info system\obj\Debug\police info system.exe
+G:\4my self\police\police\police info system\police info system\obj\Debug\police info system.xml
+G:\4my self\police\police\police info system\police info system\obj\Debug\police info system.pdb
+G:\4my self\police\police\police info system\police info system\bin\Debug\police info system.exe
+G:\4my self\police\police\police info system\police info system\bin\Debug\police info system.pdb
+G:\4my self\police\police\police info system\police info system\bin\Debug\police info system.xml
+G:\4my self\police\police\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmsalaryrpt.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+G:\4my self\police\police\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+J:\police info system\police info system\obj\Debug\police info system.exe
+J:\police info system\police info system\obj\Debug\police info system.xml
+J:\police info system\police info system\obj\Debug\police info system.pdb
+E:\police info system\police info system\obj\Debug\police info system.exe
+E:\police info system\police info system\obj\Debug\police info system.xml
+E:\police info system\police info system\obj\Debug\police info system.pdb
+E:\police info system\police info system\bin\Debug\police info system.exe
+E:\police info system\police info system\bin\Debug\police info system.pdb
+E:\police info system\police info system\bin\Debug\police info system.xml
+E:\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+E:\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmendorsement.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+E:\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+E:\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmride.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmsecurity.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmstrike.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+E:\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+E:\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+E:\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+E:\police info system\police info system\obj\Debug\police_info_system.frmchecking.resources
+E:\police info system\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmstatus.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmviewreport.resources
+E:\police info system\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police info system.exe
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police info system.xml
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police info system.pdb
+C:\Users\Aru\Desktop\police info system\police info system\bin\Debug\police info system.exe
+C:\Users\Aru\Desktop\police info system\police info system\bin\Debug\police info system.pdb
+C:\Users\Aru\Desktop\police info system\police info system\bin\Debug\police info system.xml
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmchecking.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmendorsement.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmride.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmsecurity.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmstatus.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmstrike.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmviewreport.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+C:\Users\Aru\Desktop\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+F:\police info system\police info system\obj\Debug\police info system.exe
+F:\police info system\police info system\obj\Debug\police info system.xml
+F:\police info system\police info system\obj\Debug\police info system.pdb
+F:\police info system\police info system\bin\Debug\police info system.exe
+F:\police info system\police info system\bin\Debug\police info system.pdb
+F:\police info system\police info system\bin\Debug\police info system.xml
+F:\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+F:\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmchecking.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmendorsement.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+F:\police info system\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+F:\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+F:\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmride.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmsecurity.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmstatus.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmstrike.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmviewreport.resources
+F:\police info system\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+F:\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+F:\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+F:\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+G:\police info system\police info system\obj\Debug\police info system.exe
+G:\police info system\police info system\obj\Debug\police info system.xml
+G:\police info system\police info system\obj\Debug\police info system.pdb
+G:\police info system\police info system\bin\Debug\police info system.exe
+G:\police info system\police info system\bin\Debug\police info system.pdb
+G:\police info system\police info system\bin\Debug\police info system.xml
+G:\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+G:\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmchecking.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmcourtdetails.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmendorsement.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+G:\police info system\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+G:\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+G:\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmride.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmsecurity.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmstatus.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmstrike.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmviewreport.resources
+G:\police info system\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+G:\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+G:\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+G:\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+D:\police info system\police info system\obj\Debug\police info system.exe
+D:\police info system\police info system\obj\Debug\police info system.xml
+D:\police info system\police info system\obj\Debug\police info system.pdb
+D:\police info system\police info system\bin\Debug\police info system.exe
+D:\police info system\police info system\bin\Debug\police info system.pdb
+D:\police info system\police info system\bin\Debug\police info system.xml
+D:\police info system\police info system\obj\Debug\ResolveAssemblyReference.cache
+D:\police info system\police info system\obj\Debug\police_info_system.frmadmin.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmattendance.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmchecking.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmcriminal.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmdesignation.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmendorsement.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmfir.resources
+D:\police info system\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+D:\police info system\police info system\obj\Debug\police_info_system.Frmloading.resources
+D:\police info system\police info system\obj\Debug\police_info_system.Frmlogin.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmovertime.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmprofile.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmride.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmsalary.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmsecurity.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmstatus.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmstrike.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmtarget.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmuser.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmutp.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmviewreport.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+D:\police info system\police info system\obj\Debug\police_info_system.MDIParent1.resources
+D:\police info system\police info system\obj\Debug\police_info_system.Resources.resources
+D:\police info system\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache
+D:\police info system\police info system\obj\Debug\police_info_system.frmcomplaintselect.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmfirselect.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmcriminalselect.resources
+D:\police info system\police info system\obj\Debug\police_info_system.frmchargesheetselected.resources
+E:\d drive\police info system\police info system\obj\Debug\police info system.exe
+E:\d drive\police info system\police info system\obj\Debug\police info system.xml
+E:\d drive\police info system\police info system\obj\Debug\police info system.pdb
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police info system.exe
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police info system.xml
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police info system.pdb
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmadmin.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmattendance.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmchargesheet.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmchargesheetselected.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmchecking.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmcomplaint.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmcomplaintselect.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmcriminal.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmcriminalselect.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmdailyrounds.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmdesignation.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmemployeeattendance.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmendorsement.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmfir.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmfirselect.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.Frmjudgement.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.Frmloading.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.Frmlogin.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmmostwanted.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmovertime.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmpermanentprisoner.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmpostmortem.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmprofile.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmride.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmsalary.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmsalarygenerator.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmsecurity.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmstatus.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmstrike.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmtarget.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmtasksettings.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmuser.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmutp.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmviewprofile.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmviewreport.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.frmwithdrawn.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police_info_system.MDIParent1.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\Crime Information System\police info system\obj\Debug\police info system.vbproj.GenerateResource.Cache

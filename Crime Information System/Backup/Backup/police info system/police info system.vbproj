@@ -1,0 +1,719 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="3.5" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F3232297-9E2C-443C-8F49-A11809002A46}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>police_info_system.My.MyApplication</StartupObject>
+    <RootNamespace>police_info_system</RootNamespace>
+    <AssemblyName>police info system</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <OptionExplicit>On</OptionExplicit>
+    <OptionCompare>Binary</OptionCompare>
+    <OptionStrict>Off</OptionStrict>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>police info system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>police info system.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="CrystalDecisions.CrystalReports.Engine, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.Framework, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Enterprise.InfoStore, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.ReportSource, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Shared, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="CrystalDecisions.Windows.Forms, Version=10.5.3700.0, Culture=neutral, PublicKeyToken=692fbea5521e1304" />
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Web.Services, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>C:\Windows\assembly\GAC_MSIL\System.Web.Services\2.0.0.0__b03f5f7f11d50a3a\System.Web.Services.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="CrystalReport1.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>CrystalReport1.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="frmchargesheet.designer.vb">
+      <DependentUpon>frmchargesheet.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchargesheet.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchargesheetselected.Designer.vb">
+      <DependentUpon>frmchargesheetselected.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchargesheetselected.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmchecking.Designer.vb">
+      <DependentUpon>frmchecking.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmchecking.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcomplaintselect.Designer.vb">
+      <DependentUpon>frmcomplaintselect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcomplaintselect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcriminalselect.Designer.vb">
+      <DependentUpon>frmcriminalselect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcriminalselect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdailyrounds.Designer.vb">
+      <DependentUpon>frmdailyrounds.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdailyrounds.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmendorsment.Designer.vb">
+      <DependentUpon>frmendorsment.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmendorsment.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfirselect.Designer.vb">
+      <DependentUpon>frmfirselect.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmfirselect.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmjudgement.designer.vb">
+      <DependentUpon>Frmjudgement.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmjudgement.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpermanentprisoner.Designer.vb">
+      <DependentUpon>frmpermanentprisoner.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpermanentprisoner.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmride.Designer.vb">
+      <DependentUpon>frmride.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmride.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsalarygenerator.Designer.vb">
+      <DependentUpon>frmsalarygenerator.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsalarygenerator.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsecurity.Designer.vb">
+      <DependentUpon>frmsecurity.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsecurity.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstatus.designer.vb">
+      <DependentUpon>frmstatus.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmstatus.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmstrike.Designer.vb">
+      <DependentUpon>frmstrike.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmstrike.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmutp.Designer.vb">
+      <DependentUpon>frmutp.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmutp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmattendance.Designer.vb">
+      <DependentUpon>frmattendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmattendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcomplaint.Designer.vb">
+      <DependentUpon>frmcomplaint.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcomplaint.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmcriminal.Designer.vb">
+      <DependentUpon>frmcriminal.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmcriminal.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmdesignation.designer.vb">
+      <DependentUpon>frmdesignation.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmdesignation.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmemployeeattendance.Designer.vb">
+      <DependentUpon>frmemployeeattendance.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmemployeeattendance.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmfir.Designer.vb">
+      <DependentUpon>frmfir.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmfir.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmmostwanted.Designer.vb">
+      <DependentUpon>frmmostwanted.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmmostwanted.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmovertime.Designer.vb">
+      <DependentUpon>frmovertime.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmovertime.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmpostmortem.Designer.vb">
+      <DependentUpon>frmpostmortem.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmpostmortem.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmprofile.Designer.vb">
+      <DependentUpon>frmprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmsalary.Designer.vb">
+      <DependentUpon>frmsalary.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmsalary.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtarget.Designer.vb">
+      <DependentUpon>frmtarget.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmtarget.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmtasksettings.Designer.vb">
+      <DependentUpon>frmtasksettings.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmtasksettings.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmuser.Designer.vb">
+      <DependentUpon>frmuser.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmuser.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmadmin.Designer.vb">
+      <DependentUpon>frmadmin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmadmin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmloading.Designer.vb">
+      <DependentUpon>Frmloading.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmloading.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Frmlogin.Designer.vb">
+      <DependentUpon>Frmlogin.vb</DependentUpon>
+    </Compile>
+    <Compile Include="Frmlogin.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmviewprofile.Designer.vb">
+      <DependentUpon>frmviewprofile.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmviewprofile.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmviewreport.Designer.vb">
+      <DependentUpon>frmviewreport.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmviewreport.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmwithdrawn.designer.vb">
+      <DependentUpon>frmwithdrawn.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmwithdrawn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MDIParent1.designer.vb">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="MDIParent1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Module1.vb" />
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <Compile Include="rptattendance.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptattendance.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptchargesheet.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptchargesheet.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptchecking.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptchecking.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptcomplaint.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptcomplaint.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptcriminal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptcriminal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptdailyreports.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptdailyreports.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptemp.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptemp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptendorsment.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptendorsment.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptfir.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptfir.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptiemp.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptiemp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptjudgement.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptjudgement.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptmostwanted.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptmostwanted.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptpermanent.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptpermanent.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptpostmortem.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptpostmortem.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptride.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptride.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptsecurity.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptsecurity.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptstatus.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptstatus.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptstrike.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptstrike.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptutp.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptutp.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="rptwithdrawal.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>rptwithdrawal.rpt</DependentUpon>
+      <SubType>Component</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="CrystalReport1.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>CrystalReport1.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmadmin.resx">
+      <DependentUpon>frmadmin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmattendance.resx">
+      <DependentUpon>frmattendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchargesheet.resx">
+      <DependentUpon>frmchargesheet.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchargesheetselected.resx">
+      <DependentUpon>frmchargesheetselected.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmchecking.resx">
+      <DependentUpon>frmchecking.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcomplaint.resx">
+      <DependentUpon>frmcomplaint.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcomplaintselect.resx">
+      <DependentUpon>frmcomplaintselect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcriminal.resx">
+      <DependentUpon>frmcriminal.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmcriminalselect.resx">
+      <DependentUpon>frmcriminalselect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdailyrounds.resx">
+      <DependentUpon>frmdailyrounds.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmdesignation.resx">
+      <DependentUpon>frmdesignation.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmemployeeattendance.resx">
+      <DependentUpon>frmemployeeattendance.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmendorsment.resx">
+      <DependentUpon>frmendorsment.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfir.resx">
+      <DependentUpon>frmfir.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmfirselect.resx">
+      <DependentUpon>frmfirselect.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmjudgement.resx">
+      <DependentUpon>Frmjudgement.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmloading.resx">
+      <DependentUpon>Frmloading.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Frmlogin.resx">
+      <DependentUpon>Frmlogin.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmmostwanted.resx">
+      <DependentUpon>frmmostwanted.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmovertime.resx">
+      <DependentUpon>frmovertime.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpermanentprisoner.resx">
+      <DependentUpon>frmpermanentprisoner.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmpostmortem.resx">
+      <DependentUpon>frmpostmortem.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmprofile.resx">
+      <DependentUpon>frmprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmride.resx">
+      <DependentUpon>frmride.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsalary.resx">
+      <DependentUpon>frmsalary.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsalarygenerator.resx">
+      <DependentUpon>frmsalarygenerator.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmsecurity.resx">
+      <DependentUpon>frmsecurity.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstatus.resx">
+      <DependentUpon>frmstatus.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmstrike.resx">
+      <DependentUpon>frmstrike.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtarget.resx">
+      <DependentUpon>frmtarget.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmtasksettings.resx">
+      <DependentUpon>frmtasksettings.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmuser.resx">
+      <DependentUpon>frmuser.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmutp.resx">
+      <DependentUpon>frmutp.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmviewprofile.resx">
+      <DependentUpon>frmviewprofile.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmviewreport.resx">
+      <DependentUpon>frmviewreport.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmwithdrawn.resx">
+      <DependentUpon>frmwithdrawn.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MDIParent1.resx">
+      <DependentUpon>MDIParent1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptattendance.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptattendance.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptchargesheet.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptchargesheet.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptchecking.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptchecking.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptcomplaint.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptcomplaint.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptcriminal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptcriminal.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptdailyreports.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptdailyreports.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptemp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptemp.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptendorsment.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptendorsment.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptfir.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptfir.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptiemp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptiemp.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptjudgement.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptjudgement.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptmostwanted.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptmostwanted.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptpermanent.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptpermanent.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptpostmortem.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptpostmortem.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptride.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptride.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptsecurity.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptsecurity.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptstatus.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptstatus.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptstrike.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptstrike.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptutp.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptutp.vb</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="rptwithdrawal.rpt">
+      <Generator>CrystalDecisions.VSDesigner.CodeGen.ReportCodeGenerator</Generator>
+      <LastGenOutput>rptwithdrawal.vb</LastGenOutput>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cooltext610573260.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\loginimg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Service Include="{967B4E0D-AD0C-4609-AB67-0FA40C0206D8}" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\badge-and-gun-wallpapers_13449_1152x864.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\M-StationSecurity.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\60510-Royalty-Free-RF-Clipart-Illustration-Of-A-Gold-Star-Police-Badge-Draped-By-A-Blank-Silver-Banner-On-A-Bursting-Gray-Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\HJG.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\imagesCAS8B3NM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\lamborghini-police-car-nfs-hot-pursuit-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\MMM.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\N.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\NN.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\police_t_formation_image_500_clr.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\S.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\ShowImage.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="images\thumbbig-151145.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\loginimg.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,41 @@
+
+.topbar
+{
+    background:yellow;
+    width:99%;
+    height:60px;
+    border:1px solid black;
+    color:darkred;
+    font-weight:bold;
+    margin:0px;
+    valign:middle;
+    font-size:50px;
+    padding-left:5px;
+}
+
+.sidebar
+{
+    background:#EEEAC0;
+    border:1px solid black;
+    width:100px;
+    height:100%;
+    margin:0px;
+    padding-left:10px;
+    padding-right:10px;
+    color:darkred;
+}
+
+.content
+{
+    margin:20px;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.bottombar
+{
+    background:black;
+    height:10px;
+    width:99%;
+    padding-left:5px;
+}

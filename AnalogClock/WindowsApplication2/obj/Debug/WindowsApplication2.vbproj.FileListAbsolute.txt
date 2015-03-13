@@ -1,0 +1,30 @@
+D:\VB Planet\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\VB Planet\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\VB Planet\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\VB Planet\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\VB Planet\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+D:\Anu all projects\Analog clock\analogclock\AnalogClock\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe.config
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.exe
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.xml
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.pdb
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.exe
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.pdb
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\bin\Debug\WindowsApplication2.xml
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Form1.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.Resources.resources
+C:\Users\Dipak kumar\Documents\Visual Studio 2013\Projects\AnalogClock\WindowsApplication2\obj\Debug\WindowsApplication2.vbproj.GenerateResource.Cache

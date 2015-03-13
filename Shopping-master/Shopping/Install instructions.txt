@@ -1,0 +1,5 @@
+1. You need a web server, an SQL server and a PHP processor to run this website. It runs fine under Windows 7 with WAMP server.
+2. Install the files in the "www" folder.
+3. Run the "install" script to populate the SQL tables.
+4. Set up the mail function in your php.ini file, if this has not been done during WAMP server instalation.
+4. "Products" is the start page for customers, "managers" is for products update.

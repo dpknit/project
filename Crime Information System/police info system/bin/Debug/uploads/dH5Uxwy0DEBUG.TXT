@@ -1,0 +1,614 @@
+Constructor ok 
+Check sysytem support
+Check sysytem support ok
+new memory for mRegData
+call GetCdRomRegistryInfo
+Check sysytem support
+Check sysytem support ok
+call GetGuidRegistryInfo(CdRomClassGuid)
+Check sysytem support
+Check sysytem support ok
+call GetScsiAddr
+dwCount = 1
+Rearrange Array
+Rearrange Array ok
+call GetGuidRegistryInfoByDriver(GUID_DEVCLASS_HDC)
+Check sysytem support
+Check sysytem support ok
+call fpSetupDiGetClassDevs
+call fpSetupDiEnumDeviceInfo
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=0
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0000...i=0
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=1
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=2
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0007...i=2
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=3
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=4
+DRIVER = {4d36e967-e325-11ce-bfc1-08002be10318}\0000...i=4
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=5
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=6
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0005...i=6
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=7
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0015...i=7
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=8
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=9
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0000...i=9
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=10
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=11
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=12
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0031...i=12
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=13
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0032...i=13
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=14
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0011...i=14
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=15
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=16
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=17
+DRIVER = {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}\0001...i=17
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=18
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=19
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0010...i=19
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=20
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=21
+DRIVER = {4d36e96e-e325-11ce-bfc1-08002be10318}\0000...i=21
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=22
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0016...i=22
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=23
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=24
+DRIVER = {4d36e968-e325-11ce-bfc1-08002be10318}\0000...i=24
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=25
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0019...i=25
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=26
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0000...i=26
+call SetupDiGetDeviceInstanceId
+DeviceInstanceID = PCI\VEN_8086&DEV_3B2F&SUBSYS_04471028&REV_06\3&11583659&0&FA
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DEVICEDESC)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_ENUMERATOR_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_PHYSICAL_DEVICE_OBJECT_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_LOCATION_INFORMATION)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_HARDWAREID)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_COMPATIBLEIDS)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_FRIENDLYNAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=27
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0001...i=27
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=28
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0020...i=28
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=29
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0033...i=29
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=30
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=31
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=32
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=33
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0017...i=33
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=34
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0007...i=34
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=35
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0035...i=35
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=36
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0000...i=36
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=37
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0006...i=37
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=38
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=39
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0008...i=39
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=40
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=41
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0002...i=41
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=42
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0001...i=42
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=43
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0003...i=43
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=44
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=45
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0034...i=45
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=46
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0022...i=46
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=47
+DRIVER = {4d36e96f-e325-11ce-bfc1-08002be10318}\0000...i=47
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=48
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0021...i=48
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=49
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0042...i=49
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=50
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=51
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0003...i=51
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=52
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=53
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0036...i=53
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=54
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0002...i=54
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=55
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0012...i=55
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=56
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=57
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0006...i=57
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=58
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=59
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0000...i=59
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=60
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0017...i=60
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=61
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0002...i=61
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=62
+DRIVER = {4d36e96b-e325-11ce-bfc1-08002be10318}\0000...i=62
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=63
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0006...i=63
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=64
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=65
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0001...i=65
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=66
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0007...i=66
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=67
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=68
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0000...i=68
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=69
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0001...i=69
+call SetupDiGetDeviceInstanceId
+DeviceInstanceID = PCIIDE\IDECHANNEL\4&29FAABC&0&0
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DEVICEDESC)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_ENUMERATOR_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_PHYSICAL_DEVICE_OBJECT_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_LOCATION_INFORMATION)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_HARDWAREID)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_COMPATIBLEIDS)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_FRIENDLYNAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=70
+DRIVER = {c7c038ad-1f2d-44d4-b2fe-d912be20e6d5}\0000...i=70
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=71
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0008...i=71
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=72
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0037...i=72
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=73
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0007...i=73
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=74
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=75
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0019...i=75
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=76
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0002...i=76
+call SetupDiGetDeviceInstanceId
+DeviceInstanceID = PCIIDE\IDECHANNEL\4&29FAABC&0&1
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DEVICEDESC)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_ENUMERATOR_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_PHYSICAL_DEVICE_OBJECT_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_LOCATION_INFORMATION)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_HARDWAREID)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_COMPATIBLEIDS)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_FRIENDLYNAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=77
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0005...i=77
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=78
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0004...i=78
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=79
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0013...i=79
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=80
+DRIVER = {6bdd1fc6-810f-11d0-bec7-08002be2092f}\0000...i=80
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=81
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=82
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0038...i=82
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=83
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0011...i=83
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=84
+DRIVER = {4d36e96b-e325-11ce-bfc1-08002be10318}\0001...i=84
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=85
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0001...i=85
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=86
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0004...i=86
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=87
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0003...i=87
+call SetupDiGetDeviceInstanceId
+DeviceInstanceID = PCIIDE\IDECHANNEL\4&29FAABC&0&4
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DEVICEDESC)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_ENUMERATOR_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_PHYSICAL_DEVICE_OBJECT_NAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_LOCATION_INFORMATION)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_HARDWAREID)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_COMPATIBLEIDS)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_FRIENDLYNAME)
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=88
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0023...i=88
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=89
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=90
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0014...i=90
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=91
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0002...i=91
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=92
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=93
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0005...i=93
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=94
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0003...i=94
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=95
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0000...i=95
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=96
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0009...i=96
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=97
+DRIVER = {4d36e96f-e325-11ce-bfc1-08002be10318}\0001...i=97
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=98
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0003...i=98
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=99
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0025...i=99
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=100
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=101
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=102
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0012...i=102
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=103
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0000...i=103
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=104
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0023...i=104
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=105
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0026...i=105
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=106
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0024...i=106
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=107
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0021...i=107
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=108
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=109
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=110
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0001...i=110
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=111
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0014...i=111
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=112
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0039...i=112
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=113
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=114
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0002...i=114
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=115
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0005...i=115
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=116
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0013...i=116
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=117
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0015...i=117
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=118
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=119
+DRIVER = {4d36e966-e325-11ce-bfc1-08002be10318}\0000...i=119
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=120
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0041...i=120
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=121
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=122
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0040...i=122
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=123
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0004...i=123
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=124
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0008...i=124
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=125
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0003...i=125
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=126
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0001...i=126
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=127
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=128
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0027...i=128
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=129
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=130
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0028...i=130
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=131
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0010...i=131
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=132
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0004...i=132
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=133
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0003...i=133
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=134
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0002...i=134
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=135
+DRIVER = {4d36e965-e325-11ce-bfc1-08002be10318}\0000...i=135
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=136
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=137
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=138
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0005...i=138
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=139
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0016...i=139
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=140
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0002...i=140
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=141
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0001...i=141
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=142
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=143
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=144
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0017...i=144
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=145
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0000...i=145
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=146
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=147
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0029...i=147
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=148
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0030...i=148
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=149
+DRIVER = {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}\0000...i=149
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=150
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=151
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=152
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0009...i=152
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=153
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0018...i=153
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=154
+call fpSetupDiDestroyDeviceInfoList
+dwCountDriver = 4
+call GetGuidRegistryInfoByDriver(GUID_DEVCLASS_SCSIADAPTER)
+Check sysytem support
+Check sysytem support ok
+call fpSetupDiGetClassDevs
+call fpSetupDiEnumDeviceInfo
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=0
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0000...i=0
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=1
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=2
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0007...i=2
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=3
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=4
+DRIVER = {4d36e967-e325-11ce-bfc1-08002be10318}\0000...i=4
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=5
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=6
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0005...i=6
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=7
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0015...i=7
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=8
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=9
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0000...i=9
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=10
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=11
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=12
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0031...i=12
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=13
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0032...i=13
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=14
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0011...i=14
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=15
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=16
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=17
+DRIVER = {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}\0001...i=17
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=18
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=19
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0010...i=19
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=20
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=21
+DRIVER = {4d36e96e-e325-11ce-bfc1-08002be10318}\0000...i=21
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=22
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0016...i=22
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=23
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=24
+DRIVER = {4d36e968-e325-11ce-bfc1-08002be10318}\0000...i=24
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=25
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0019...i=25
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=26
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0000...i=26
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=27
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0001...i=27
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=28
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0020...i=28
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=29
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0033...i=29
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=30
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=31
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=32
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=33
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0017...i=33
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=34
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0007...i=34
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=35
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0035...i=35
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=36
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0000...i=36
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=37
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0006...i=37
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=38
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=39
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0008...i=39
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=40
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=41
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0002...i=41
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=42
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0001...i=42
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=43
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0003...i=43
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=44
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=45
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0034...i=45
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=46
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0022...i=46
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=47
+DRIVER = {4d36e96f-e325-11ce-bfc1-08002be10318}\0000...i=47
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=48
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0021...i=48
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=49
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0042...i=49
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=50
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=51
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0003...i=51
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=52
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=53
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0036...i=53
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=54
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0002...i=54
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=55
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0012...i=55
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=56
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=57
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0006...i=57
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=58
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=59
+DRIVER = {4d36e96c-e325-11ce-bfc1-08002be10318}\0000...i=59
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=60
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0017...i=60
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=61
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0002...i=61
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=62
+DRIVER = {4d36e96b-e325-11ce-bfc1-08002be10318}\0000...i=62
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=63
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0006...i=63
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=64
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=65
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0001...i=65
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=66
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0007...i=66
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=67
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=68
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0000...i=68
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=69
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0001...i=69
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=70
+DRIVER = {c7c038ad-1f2d-44d4-b2fe-d912be20e6d5}\0000...i=70
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=71
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0008...i=71
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=72
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0037...i=72
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=73
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0007...i=73
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=74
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=75
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0019...i=75
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=76
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0002...i=76
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=77
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0005...i=77
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=78
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0004...i=78
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=79
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0013...i=79
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=80
+DRIVER = {6bdd1fc6-810f-11d0-bec7-08002be2092f}\0000...i=80
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=81
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=82
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0038...i=82
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=83
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0011...i=83
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=84
+DRIVER = {4d36e96b-e325-11ce-bfc1-08002be10318}\0001...i=84
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=85
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0001...i=85
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=86
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0004...i=86
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=87
+DRIVER = {4d36e96a-e325-11ce-bfc1-08002be10318}\0003...i=87
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=88
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0023...i=88
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=89
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=90
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0014...i=90
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=91
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0002...i=91
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=92
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=93
+DRIVER = {71a27cdd-812a-11d0-bec7-08002be2092f}\0005...i=93
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=94
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0003...i=94
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=95
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0000...i=95
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=96
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0009...i=96
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=97
+DRIVER = {4d36e96f-e325-11ce-bfc1-08002be10318}\0001...i=97
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=98
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0003...i=98
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=99
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0025...i=99
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=100
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=101
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=102
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0012...i=102
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=103
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0000...i=103
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=104
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0023...i=104
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=105
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0026...i=105
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=106
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0024...i=106
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=107
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0021...i=107
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=108
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=109
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=110
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0001...i=110
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=111
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0014...i=111
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=112
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0039...i=112
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=113
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=114
+DRIVER = {745a17a0-74d3-11d0-b6fe-00a0c90f57da}\0002...i=114
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=115
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0005...i=115
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=116
+DRIVER = {4d36e972-e325-11ce-bfc1-08002be10318}\0013...i=116
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=117
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0015...i=117
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=118
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=119
+DRIVER = {4d36e966-e325-11ce-bfc1-08002be10318}\0000...i=119
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=120
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0041...i=120
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=121
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=122
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0040...i=122
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=123
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0004...i=123
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=124
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0008...i=124
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=125
+DRIVER = {50127dc3-0f36-415e-a6cc-4cb3be910b65}\0003...i=125
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=126
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0001...i=126
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=127
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=128
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0027...i=128
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=129
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=130
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0028...i=130
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=131
+DRIVER = {533c5b84-ec70-11d2-9505-00c04f79deaf}\0010...i=131
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=132
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0004...i=132
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=133
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0003...i=133
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=134
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0002...i=134
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=135
+DRIVER = {4d36e965-e325-11ce-bfc1-08002be10318}\0000...i=135
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=136
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=137
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=138
+DRIVER = {36fc9e60-c465-11cf-8056-444553540000}\0005...i=138
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=139
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0016...i=139
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=140
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0002...i=140
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=141
+DRIVER = {72631e54-78a4-11d0-bcf7-00aa00b7b32a}\0001...i=141
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=142
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=143
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=144
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0017...i=144
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=145
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0000...i=145
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=146
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=147
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0029...i=147
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=148
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0030...i=148
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=149
+DRIVER = {e0cbf06c-cd8b-4647-bb8a-263b43f0f974}\0000...i=149
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=150
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=151
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=152
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0009...i=152
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=153
+DRIVER = {4d36e97d-e325-11ce-bfc1-08002be10318}\0018...i=153
+call fpSetupDiGetDeviceRegistryProperty(SPDRP_DRIVER)...i=154
+call fpSetupDiDestroyDeviceInfoList
+call fpCM_Locate_DevNode ... j=0
+call fpCM_Get_Parent ... j=0
+call fpCM_Get_Device_ID ... j=0
+call fpCM_Get_DevNode_Registry_Property ... j=0
+Check UINumber ... j=0
+IO Address not found 
+Get parent for IO Address 
+call GetDevInstConfig ... j=0
+IO Resource (0)
+tMyIOResource.IO_Addr[t].IOD_Alloc_Base = F070
+tMyIOResource.IO_Addr[t].IOD_Alloc_End = F077
+IO Resource (1)
+tMyIOResource.IO_Addr[t].IOD_Alloc_Base = F050
+tMyIOResource.IO_Addr[t].IOD_Alloc_End = F057
+Mem IO Resource (0)
+tMyIOResource.Mem_Addr[t].IOD_Alloc_Base = FBF06000
+tMyIOResource.Mem_Addr[t].IOD_Alloc_End = FBF067FF
+call LoadTxModeSetting
+Deconstructor ok 
